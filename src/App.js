@@ -30,7 +30,8 @@ function App() {
         config
       );
       const randomWords = res.data.word;
-      console.log(typeof randomWords);
+      //I consoled here it's very heard to find the answer
+      //console.log(typeof randomWords);
       setWords(randomWords);
       setSelectedWord(randomWords);
       return res.data;
@@ -45,8 +46,9 @@ function App() {
     // return () => {};
   }, []);
 
-  console.log(words);
-  console.log(selectedWord);
+  //I used console to find the random word
+ // console.log(words);
+  //console.log(selectedWord);
 
   useEffect(() => {
     const handleKeydown = (event) => {
