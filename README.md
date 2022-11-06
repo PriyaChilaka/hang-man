@@ -87,17 +87,12 @@ This section has moved here: https://facebook.github.io/create-react-app/docs/tr
 
 
 ## 🚀 About Me
-I'm a full stack developer...
+I'm a full stack developer, Enthusiastic person to learn new technologies grasping new techniques.Friendly nature very communicative with other people . Good Colloboration with co-workers.
 
 
 ## 🔗 Links
  - https://www.linkedin.com/in/priya-kolukuluri-38247b47
  - https://github.com/PriyaChilaka
-
-## Feedback
-
-
-
 
 ## Related
 - github.com/PriyaChilaka/hangman  without API only native React
